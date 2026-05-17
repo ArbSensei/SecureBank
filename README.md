@@ -27,3 +27,29 @@ The aim of this project was to improve my understanding of secure web developmen
 - JavaScript
 - CSS
 - Python
+
+## Screenshots
+
+### Login Page
+![Login Page](LoginPage.png)
+
+### MFA Verification
+![MFA Verification](MFAPage.png)
+
+### Dashboard
+![Dashboard](Dashboard1.png)
+
+### Card Management
+![Card Management](Dashboard2.png)
+
+### Transfer Page
+![Transfer Page](TransferPage1.png)
+
+### Scam Warning Check
+![Scam Warning](TransferPage2.png)
+
+### Transfer Success
+![Transfer Success](TransferPage3.png)
+
+### Transaction History
+![Transaction History](TransactionHistory.png)
