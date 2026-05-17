@@ -1,0 +1,6 @@
+transaction_name,amount,transfers_last_hour,failed_logins_24h,hour_of_day,ml_prediction,fraud_status
+Small normal transfer,50,1,0,11,0,Normal
+SecureBank Test1 transfer,250,2,0,18,0,Normal
+Large SecureBank transfer,500,2,0,18,1,Suspicious
+Very large late-night transfer,900,4,2,2,1,Suspicious
+Multiple transfers after failed logins,700,5,3,23,1,Suspicious
